@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Varun Yalaka
-- 🌱 I’m currently learning data analytics 
 - 📫 How to reach me yvarun@live.com
 
 <!---
